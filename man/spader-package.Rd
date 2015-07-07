@@ -10,7 +10,7 @@ SpadeR computes various biodiversity indices based on different types of sample 
 }
 \details{
 \tabular{ll}{
-Package: \tab spadeR\cr
+Package: \tab SpadeR\cr
 Type: \tab Package\cr
 Version: \tab 1.0\cr
 Date: \tab 2015-07-07\cr
